@@ -1,0 +1,6 @@
+version: 0.1
+lint:
+  files:
+    - name: foo
+      extensions:
+        - foo
